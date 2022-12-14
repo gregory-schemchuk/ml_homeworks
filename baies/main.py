@@ -43,4 +43,8 @@ def main(symps):
 
 
 if __name__ == '__main__':
-    main(sys.argv)
+    vals = []
+    for i in range(len(sys.argv)):
+        val = sys.argv[i] == 'true' if True else False
+        vals.append(val)
+    main(vals)

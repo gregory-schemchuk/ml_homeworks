@@ -1,11 +1,11 @@
 disease;количество пациентов
-Левосторонний паратонзиллит;26
-Правосторонний паратонзиллит;30
-Двусторонний паратонзиллярный абсцесс;9
-Левосторонний паратонзиллярный абсцесс;116
-Правосторонний паратонзиллярный абсцесс;96
-Левосторнний парафарингиальный абсцесс;3
-Правосторонний парафарингиальный абсцесс;3
-Левосторонний парафарингит;8
-Правосторонний парафарингит;12
+Left-sided paratonsillitis;26
+Right side paratonsillitis;30
+Bilateral paratonsillar abscess;25
+Left-sided paratonsillar abscess;80
+Right-sided paratonsillar abscess;96
+Left parapharyngeal abscess;3
+Right parapharyngeal abscess;3
+Left-sided parapharyngitis;8
+Right-sided parapharyngitis;32
 Итого;303
